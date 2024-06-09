@@ -1,4 +1,4 @@
-# awesome-handwritten-generation
+# awesome-handwritten-imqge-generation
 
 ## 📖 Table of Contents 👀
 - [Approaches](#approaches)
@@ -9,7 +9,7 @@
 
 ### Diffusion-Based Approaches
 
-+ [Conditional Text Image Generation with Diffusion Models]([https://arxiv.org/abs/2306.10804](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf)) (CVPR2023)  
++ [Conditional Text Image Generation with Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) (CVPR2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.10804)
   [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.48550/arXiv.2306.10804)](https://juleskreuer.eu/citation-badge/)
 
